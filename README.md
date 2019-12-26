@@ -1,3 +1,5 @@
+### Traduccion del ingles al español del libro Understanding the linux kernel
+
 Este repositorio existe con el fin de llevar un aprendizaje sobre el kernel de linux y en algun momento ser parte 
 de este gran proyecto de open source, el contenido de este repositorio por lo pronto se puede encontrar en la Wiki
 de este mismo proyecto, donde se estara llevando el trabajo de traduccion del libro:
